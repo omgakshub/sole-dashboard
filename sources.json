@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "name": "SOLE Ultimate Media Dashboard",
+  "note": "Edit this file on GitHub later to update legal/free sources without rebuilding APK.",
+  "donate": {
+    "buyMeACoffee": "https://www.buymeacoffee.com/",
+    "paypal": "https://paypal.me/"
+  }
+}
